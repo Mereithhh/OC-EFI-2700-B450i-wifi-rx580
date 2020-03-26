@@ -1,4 +1,4 @@
-# OC-EFI-2700-B450i-wifi
+# OC-EFI-2700-B450i-wifi-rx580
 OpenCore Hackintosh EFI, Based on GIGABYTE B450i wifi,AMD 2700,RX580 4G<br>
 
 if you have similar hardware with me, you can have a try.<br><br>
@@ -39,7 +39,6 @@ if you have similar hardware with me, you can have a try.<br><br>
 * EHCI/XHCI Hand-off<br>
 
 4. Select the boot device which the `EFI` folder we just copy inside.<br>
-
 5. Enjoy! if something is wrong ,you can add `-v` in `boot-args` of the `config.plist` under `EFI/OC` folder.
 
 ##  One more thing
